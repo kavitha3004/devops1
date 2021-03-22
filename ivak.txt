@@ -2,4 +2,8 @@ this is
 jkhnkjuug
 this is pull1
 this is pull5
+<<<<<<< HEAD
 this is merge conflict
+=======
+this is remote merge
+>>>>>>> 98349c0fca24aac962b8566deaf5882a996492ed
